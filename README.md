@@ -13,7 +13,7 @@ Judith Ricketts
 
 ## Helpful Links
 
-* [listing at Phoenix](https://www.phoenixbrighton.org/Events/breathtaking/)  
+Listing at phoenix * [here Listing at Phoenix](https://www.phoenixbrighton.org/Events/breathtaking/)  
 <!-- * [breathtaking] listing (https://https://www.phoenixbrighton.org/Events/breathtaking/)   -->
 
 ## licence & copyright
