@@ -14,7 +14,7 @@ Judith Ricketts
 ## Helpful Links
 
 * Interactive work made using Processing.* 
-* [breathtaking] listing (https://https://www.phoenixbrighton.org/Events/breathtaking//)  
+* [breathtaking] listing (https://https://www.phoenixbrighton.org/Events/breathtaking/)  
 
 ## licence & copyright
 
